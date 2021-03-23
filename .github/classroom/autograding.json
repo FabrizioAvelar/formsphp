@@ -1,0 +1,15 @@
+{
+    "tests": [
+      {
+        "name": "test",
+        "setup": "",
+        "run": "vendor/bin/phpunit tests",
+        "input": "",
+        "output": "0",
+        "comparison": "included",
+        "timeout": 5,
+        "points": 10
+      }
+    ]
+  }
+  
